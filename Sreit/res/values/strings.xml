@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Sreit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string> 
+    <string name="check_length">已经选择<xliff:g id="anystring_you_like">%1$d</xliff:g>张图片</string>
+    <string name="tip_max_size">最多只能选择<xliff:g id="anystring_you_like">%1$d</xliff:g>张图片</string>
+    <string name="check">选择</string>
+    <string name="delete">删除</string>
+    <string name="add">添加</string> 
+</resources>
